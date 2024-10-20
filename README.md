@@ -1,7 +1,6 @@
 
 ## Tarik Kreso
-![](Business-manager-lite/tenor.gif)
-
+![](https://media1.tenor.com/m/s96DWMIVYdgAAAAd/dwight-schrute-the-office.gif)
 
 <!--
 **tarikkreso/tarikkreso** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
