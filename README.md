@@ -1,7 +1,7 @@
 
 ## Tarik Kreso
 
-Добродошли!
+
 ![work](https://media1.tenor.com/m/s96DWMIVYdgAAAAd/dwight-schrute-the-office.gif)
 
 <!--
