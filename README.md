@@ -1,7 +1,7 @@
 
 ## Tarik Kreso
 
-rigth now: <br><br>
+right now: <br><br>
 ![work](https://media1.tenor.com/m/s96DWMIVYdgAAAAd/dwight-schrute-the-office.gif)
 
 <!--
